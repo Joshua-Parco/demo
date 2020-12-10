@@ -1,14 +1,7 @@
 {
-  "deers": [
-    {"id":1,"name":"Dasher","description":"He loves to go fast!"},
-    {"id":2,"name":"Dancer","description":"Completely extroverted"},
-    {"id":3,"name":"Prancer","description":"A bit vain, though affectionate"},
-    {"id":4,"name":"Vixen","description":"Slightly tricky"},
-    {"id":5,"name":"Comet","description":"Handsome and easy-going"},
-    {"id":6,"name":"Cupid","description":"Affectionate"},
-    {"id":7,"name":"Donner","description":"Loud"},
-    {"id":8,"name":"Blitzen","description":"Fast as a bolt!"},
-    {"id":9,"name":"Rudolph","description":"A little down on himself"},
-    {"id":10,"name":"Olive","description":"Admits when she's wrong"}
-    ]
+  "kids": [
+    { "id": 1, "name": "Bobby", "nice":"true" },
+    { "id": 2, "name": "Suzy", "nice":"true"  },
+    { "id": 3, "name": "Jonny", "nice":"true"  }
+  ]
 }
